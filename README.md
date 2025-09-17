@@ -25,4 +25,8 @@ Welcome to my **personal portfolio website** 🚀 — a space where I showcase m
 - **Deployment:**  [Netlify]([https://www.netlify.com/](https://namankabadi.netlify.app/))
 - **Version Control:** Git & GitHub  
 
+# 🌐 Portfolio Website
+
+![Portfolio Screenshot](https://github.com/namankabadi/PortfolioWebSite/blob/main/namankabadi.netlify.app.png)
+
 ---
